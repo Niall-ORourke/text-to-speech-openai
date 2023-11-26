@@ -1,0 +1,56 @@
+{
+  "audio_folder": "MontBlancAdventure_audio_files",
+  "audio_parts": [
+    {
+      "text": "Embark on an exhilarating journey as we climb Mont Blanc, the highest peak in Western Europe. This adventure will not only challenge your limits but also offer breathtaking views and a memorable experience.",
+      "filename": "MontBlanc_Introduction.mp3",
+      "generate": true
+    },
+    {
+      "text": "First, let's talk about Preparation. Climbing Mont Blanc requires physical fitness, proper gear, and an understanding of the mountain's weather conditions. It's essential to be well-prepared.",
+      "filename": "MontBlanc_Preparation.mp3",
+      "generate": true
+    },
+    {
+      "text": "Next, the Route. There are several routes to the summit, each with its own set of challenges and scenic views. The most popular is the Goûter Route, known for its accessibility.",
+      "filename": "MontBlanc_Route.mp3",
+      "generate": true
+    },
+    {
+      "text": "Safety is paramount. The risks include altitude sickness and rapidly changing weather. It's crucial to have a guide and take necessary precautions.",
+      "filename": "MontBlanc_Safety.mp3",
+      "generate": true
+    },
+    {
+      "text": "At the Summit, the feeling is indescribable. The panoramic view of the Alps is a reward for the arduous journey and a moment to cherish forever.",
+      "filename": "MontBlanc_Summit.mp3",
+      "generate": true
+    },
+    {
+      "text": "Finally, the Descent. It's an integral part of the climb, requiring focus and care. The descent offers time for reflection on the incredible achievement of reaching the top of Mont Blanc.",
+      "filename": "MontBlanc_Descent.mp3",
+      "generate": true
+    },
+    {
+      "text": "Thank you for joining this virtual climb of Mont Blanc. Whether you're an experienced climber or an aspiring adventurer, Mont Blanc calls for respect, preparation, and the spirit of exploration.",
+      "filename": "MontBlanc_Conclusion.mp3",
+      "generate": true
+    },
+    {
+      "text": "Thank you for joining this virtual climb of Mont Blanc. Whether you're an experienced climber or an aspiring adventurer, Mont Blanc calls for respect, preparation, and the spirit of exploration.",
+      "filename": "MontBlanc_Conclusion_part2.mp3",
+      "generate": true
+    },
+    {
+      "text": "Thank you for joining this virtual climb of Mont Blanc. Whether you're an experienced climber or an aspiring adventurer, Mont Blanc calls for respect, preparation, and the spirit of exploration.",
+      "filename": "MontBlanc_Conclusion_part3.mp3",
+      "generate": true
+    },
+    {
+      "text": "Thank you for joining this virtual climb of Mont Blanc. Whether you're an experienced climber or an aspiring adventurer, Mont Blanc calls for respect, preparation, and the spirit of exploration.",
+      "filename": "MontBlanc_Conclusion_part4.mp3",
+      "generate": true
+    }
+  ]
+  
+}
