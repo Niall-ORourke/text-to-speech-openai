@@ -88,6 +88,7 @@ The configuration file should be structured as follows:
       "filename": "output_filename.mp3",
       "generate": true or false
     },
+
     // Additional entries can be added here
   ]
 }
